@@ -1,0 +1,38 @@
+    1  ls
+    2  pwd
+    3  vi num5.sh
+    4  ./num5.sh
+    5  chmod +x num5.sh
+    6  ./num5.sh
+    7  vi num6.sh
+    8  chmod +x num6.sh
+    9  ./num6.sh
+   10  vi num6.sh
+   11  ./num6.sh
+   12  vi num6.sh
+   13  ./num6.sh
+   14  vi num7.sh
+   15  chmod +x num7.sh
+   16  ./num7.sh
+   17  vi num8.sh
+   18  chmod +x num8.sh
+   19  ./num8.sh
+   20  vi num9.sh
+   21  chmod +x num9.sh
+   22  ./num9.sh
+   23  vi num9.sh
+   24  ./num9.sh
+   25  vi num9.sh
+   26  ./num9.sh
+   27  vi num9.sh
+   28  ./num9.sh
+   29  vi num9.sh
+   30  gedit num9.sh
+   31  vi num9.sh
+   32  ./num9.sh
+   33  vi num9.sh
+   34  ./num9.sh
+   35  vi num9.sh
+   36  ./num9.sh
+   37  history
+
